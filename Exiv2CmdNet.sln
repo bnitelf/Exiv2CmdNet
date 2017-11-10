@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exiv2CmdNet", "Exiv2CmdNet\Exiv2CmdNet.csproj", "{7BCB4E69-15DE-4029-B21B-F71B77BCE29B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exiv2CmdNetSample", "Exiv2CmdNetSample\Exiv2CmdNetSample.csproj", "{8FF46734-0E29-4FF7-B80D-1F73C9417F89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BCB4E69-15DE-4029-B21B-F71B77BCE29B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BCB4E69-15DE-4029-B21B-F71B77BCE29B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BCB4E69-15DE-4029-B21B-F71B77BCE29B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BCB4E69-15DE-4029-B21B-F71B77BCE29B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FF46734-0E29-4FF7-B80D-1F73C9417F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FF46734-0E29-4FF7-B80D-1F73C9417F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FF46734-0E29-4FF7-B80D-1F73C9417F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FF46734-0E29-4FF7-B80D-1F73C9417F89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
