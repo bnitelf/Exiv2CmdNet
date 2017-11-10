@@ -27,4 +27,4 @@ Make sure you have installed
 1. In Reference Manager left pane, choose Projects -> Solution
 1. In right pane, check/tick Exiv2CmdNet
 1. click ok.
-1. Now you can start using Exiv2 library in your project.
+1. Now you can start using Exiv2CmdNet library in your project.
